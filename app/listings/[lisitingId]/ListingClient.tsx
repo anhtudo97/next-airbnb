@@ -14,7 +14,7 @@ import Container from '@/app/components/Container';
 import ListingHead from '@/app/components/listings/ListingHead';
 import ListingInfo from '@/app/components/listings/ListingInfo';
 import ListingReservation from '@/app/components/listings/ListingReservation';
-import { categories } from '@/app/data/common';
+import { categories } from '@/app/components/navbar/Categories';
 
 const initialDateRange = {
   startDate: new Date(),
